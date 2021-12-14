@@ -1,9 +1,9 @@
-package Bai3;
+package bai3;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class removeArrrayItem {
+public class RemoveArrrayItem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter Number: ");

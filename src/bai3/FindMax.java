@@ -1,11 +1,8 @@
-package Bai3;
+package bai3;
 
-import sun.security.mscapi.CPublicKey;
-
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class findMax {
+public class FindMax {
     public static void main(String[] args) {
             int m, n;
             Scanner scanner = new Scanner(System.in);

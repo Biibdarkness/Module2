@@ -1,9 +1,8 @@
-package Bai1;
+package bai1;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class trasNumberAndWord {
+public class TrasNumberAndWord {
     public static void main(String[] args) {
         while (true) {
             Scanner scanner = new Scanner(System.in);

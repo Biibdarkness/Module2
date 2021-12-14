@@ -1,8 +1,8 @@
-package Bai2;
+package bai2;
 
 import java.util.Scanner;
 
-public class interestCalculator {
+public class InterestCalculator {
     public static void main(String[] args) {
         double money = 1.0;
         int month = 1;

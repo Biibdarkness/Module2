@@ -1,8 +1,8 @@
-package Bai3;
+package bai3;
 
 import java.util.Arrays;
 
-public class mergeArrray {
+public class MergeArrray {
     public static void main(String[] args) {
         int[] arr1 = {1,2,3,4,5}; //Mảng khởi tạo 1
         int[] arr2 = {6,7,8,9,10}; //Mảng khởi tạo 2

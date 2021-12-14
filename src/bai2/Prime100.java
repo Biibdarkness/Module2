@@ -1,8 +1,6 @@
-package Bai2;
+package bai2;
 
-import java.util.Scanner;
-
-public class prime100 {
+public class Prime100 {
     public static void main(String[] args) {
         int number = 100;
         int c = 0;

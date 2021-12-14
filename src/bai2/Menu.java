@@ -1,8 +1,8 @@
-package Bai2;
+package bai2;
 
 import java.util.Scanner;
 
-public class menu {
+public class Menu {
     public static void main(String[] args) {
         int choice = -1;
         Scanner input = new Scanner(System.in);

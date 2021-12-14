@@ -1,8 +1,8 @@
-package Bai2;
+package bai2;
 
 import java.util.Scanner;
 
-public class primeNumber20 {
+public class PrimeNumber20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter Number: ");
