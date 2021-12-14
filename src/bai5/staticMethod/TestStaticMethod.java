@@ -1,4 +1,4 @@
-package bai5.StaticMethod;
+package bai5.staticMethod;
 
 public class TestStaticMethod {
     public static void main(String args[]) {

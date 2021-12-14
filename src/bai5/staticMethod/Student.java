@@ -1,4 +1,4 @@
-package bai5.StaticMethod;
+package bai5.staticMethod;
 
 public class Student {
     private int rollno;

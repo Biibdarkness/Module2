@@ -1,4 +1,4 @@
-package bai5.PraAccessModifier;
+package bai5.praAccessModifier;
 
 public class Student {
     private String name = "john";

@@ -1,4 +1,4 @@
-package bai5.AccessModifier;
+package bai5.accessModifier;
 
 public class TestCircle {
     public static void main(String[] args) {
