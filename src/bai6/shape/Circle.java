@@ -1,4 +1,4 @@
-package bai6.Shape;
+package bai6.shape;
 
 public class Circle extends Shape {
     private double radius = 1.0;

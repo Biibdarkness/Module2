@@ -1,4 +1,4 @@
-package bai6.Shape;
+package bai6.shape;
 
 public class Shape {
     private String color = "green";

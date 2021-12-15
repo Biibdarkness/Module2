@@ -1,7 +1,7 @@
 package bai6.circleCylinder;
 
 public class Cylinder extends Circle {
-    public double height;
+    private double height;
 
     public double getV(){
         return super.getS()*height;
@@ -18,9 +18,9 @@ public class Cylinder extends Circle {
     @Override
     public String toString() {
         return "Cylinder{" +
-                "radius=" + radius +
-                ", color='" + color + '\'' +
-                ", height=" + height +
+                "height=" + height +
+                "radius" + getRadius() +
+                "color" + getColor()+
                 '}';
     }
 }
