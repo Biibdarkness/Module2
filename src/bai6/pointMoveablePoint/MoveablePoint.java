@@ -56,11 +56,13 @@ public class MoveablePoint extends Point {
                 '}';
     }
 
-    public void move() {
+    public MoveablePoint move() {
         float x = getX();
         float y = getY();
         x += xSpeed;
         y += ySpeed;
-
+        setX(x);
+        setY(y);
+        return this;
     }
 }
