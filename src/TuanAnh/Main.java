@@ -22,7 +22,7 @@ public class Main {
 //        danhsach.poll() => trả về và loại bỏ phần đầu của hàng đợi null
     danhsach.offer("tuan anh");
         danhsach.offer("duong");
-        danhsach.offer("dan");
+        danhsach.offer("a chạy ở đây này");
         danhsach.offer("khoan");
 
 String ten = danhsach.poll();
