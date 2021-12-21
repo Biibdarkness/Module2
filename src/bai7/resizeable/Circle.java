@@ -1,6 +1,6 @@
-package bai7.comparable;
+package bai7.resizeable;
 
-public abstract class Circle extends Shape{
+public class Circle extends Shape {
     private double radius = 1.0;
 
     public Circle() {
@@ -38,6 +38,4 @@ public abstract class Circle extends Shape{
                 + ", which is a subclass of "
                 + super.toString();
     }
-
-    public abstract int compareTo(ComparableCircle o);
 }

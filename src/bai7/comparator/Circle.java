@@ -1,6 +1,9 @@
-package bai7.comparable;
+package bai7.comparator;
 
-public abstract class Circle extends Shape{
+import bai7.comparable.ComparableCircle;
+import bai7.comparable.Shape;
+
+public abstract class Circle extends Shape {
     private double radius = 1.0;
 
     public Circle() {
