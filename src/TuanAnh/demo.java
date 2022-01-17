@@ -1,19 +1,14 @@
 package TuanAnh;
 
 public class demo {
-    public int timMin (int a,int b){
-        if (a<b){
-            return a;
-        } else {
-            return b;
-        }
-    }
+    public static void main(String[] args) {
+        int a = 0;
+        a++;
 
-    public double timMin (double a,double b){
-        if (a<b){
-            return a;
-        } else {
-            return b;
+        for (int i = 0; i < 10; i++) {
+            a++;
+            System.out.println("a= "+a);
         }
+        System.out.println("DONE!");
     }
 }
